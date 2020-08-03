@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeon9825)](https://hits.seeyoufarm.com)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jy201735031@gmail.com)
+
+[![JiYoon's github stats](https://github-readme-stats.vercel.app/api?username=jeon9825)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jy201735031@gmail.com)
 
