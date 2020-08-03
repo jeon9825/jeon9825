@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 전지윤입니다. 👋
 
 <!--
 **jeon9825/jeon9825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
