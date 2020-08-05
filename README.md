@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align=center>
 </div>
 
-🌱 I’m currently learning ...
+🌱 **I’m currently learning ...**
 
 - Spring MVC Framework
 - Android
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon9825&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📫 How to reach me ...
+📫 **How to reach me ...**
 
 <div align=center>
   
