@@ -32,7 +32,14 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeon9825&repo=TIP&theme=vue)](https://github.com/jeon9825/TIP)
 -->
 
+<div align=center>
+   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon9825&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   
+</div>
+
+:sunflower: **I'm interested in ...**
+- Linux
 
 
 📫 **How to reach me ...**
@@ -41,7 +48,7 @@ Here are some ideas to get you started:
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://frogand.tistory.com//)](https://frogand.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jy201735031@gmail.com)](mailto:jy201735031@gmail.com)
-
+[![Naver Blog](https://img.shields.io/badge/blog-naver-brightgreen?style=flat-square&link=https://blog.naver.com/1735031)](https://blog.naver.com/1735031) 
 <!--
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lavunee/)](https://www.instagram.com/lavunee/) 
 -->
