@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ### 🌱 **I’m currently learning ...**
 
-- Spring MVC Framework
-- Android
+- Spring Framework (Back-End)
 - Algorithm
 - JAVA
+- C (42 Seoul)
 
 
 <!--
