@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeon9825&repo=TIP&theme=vue)](https://github.com/jeon9825/TIP)
 -->
 
-[![jijeon's 42 stats](https://badge42.herokuapp.com/api/stats/jijeon)]()   
+[![jijeon's 42 stats](https://badge42.herokuapp.com/api/stats/jijeon)]()
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon9825)](https://solved.ac/jeon9825)   
 
 <!--
