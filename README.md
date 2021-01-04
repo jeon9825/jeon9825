@@ -1,4 +1,4 @@
-## 안녕하세요. 전지윤입니다.   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeon9825)](https://hits.seeyoufarm.com)   
+## 안녕하세요. 전지윤입니다.   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeon9825)](https://hits.seeyoufarm.com) ![42](https://img.shields.io/badge/-jijeon-critical?style=flat&logo=42&label=Born2Code)  
 
 
 <!--
@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ### 🌱 **I’m currently learning ...**
 
-- Spring Framework (Back-End)
+- Spring (Back-End)
 - Algorithm
 - JAVA
-- C (42 Seoul)
+- C (42SEOUL)
 
 
 <!--
@@ -32,10 +32,12 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeon9825&repo=TIP&theme=vue)](https://github.com/jeon9825/TIP)
 -->
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon9825&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon9825)](https://solved.ac/jeon9825)
+[![jijeon's 42 stats](https://badge42.herokuapp.com/api/stats/jijeon)]()   
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon9825)](https://solved.ac/jeon9825)   
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon9825&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+</br>
 :sunflower: **I'm interested in ...**
 - Linux
 -->
