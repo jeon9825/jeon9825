@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeon9825&repo=TIP&theme=vue)](https://github.com/jeon9825/TIP)
 -->
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon9825)](https://solved.ac/jeon9825)
 [![jijeon's 42 stats](https://badge42.herokuapp.com/api/stats/jijeon)]()
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon9825)](https://solved.ac/jeon9825)   
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon9825&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
