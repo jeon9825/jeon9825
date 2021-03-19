@@ -21,20 +21,16 @@ Here are some ideas to get you started:
 
 ### 🌱 **I’m currently learning ...**
 
-- Spring (Back-End)
-- Algorithm
-- JAVA
-- C (42SEOUL)
+- Spring 
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon9825)](https://solved.ac/jeon9825)
 
 <!--
 [![JiYoon's github stats](https://github-readme-stats.vercel.app/api?username=jeon9825)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeon9825&repo=TIP&theme=vue)](https://github.com/jeon9825/TIP)
--->
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon9825)](https://solved.ac/jeon9825)
 [![jijeon's 42 stats](https://badge42.herokuapp.com/api/stats/jijeon)]()
-
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon9825&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
@@ -48,6 +44,7 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://frogand.tistory.com//)](https://frogand.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jy201735031@gmail.com)](mailto:jy201735031@gmail.com)
 [![Naver Blog](https://img.shields.io/badge/blog-naver-brightgreen?style=flat-square&link=https://blog.naver.com/1735031)](https://blog.naver.com/1735031) 
+[![Naver Blog](https://img.shields.io/badge/dev_blog-tistory-blue?style=flat-square&link=https://frogand.tistory.com)](https://frogand.tistory.com) 
 <!--
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lavunee/)](https://www.instagram.com/lavunee/) 
 -->
